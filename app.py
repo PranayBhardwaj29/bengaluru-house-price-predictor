@@ -143,7 +143,7 @@ st.markdown(
         color: #1E2422;
     }
     label, .stSelectbox label, .stNumberInput label, .stTextInput label {
-        color: #1E2422 !important;
+        color: #F7F4EE !important;
         font-weight: 600 !important;
         font-size: 0.85rem !important;
     }
